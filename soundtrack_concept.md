@@ -101,8 +101,7 @@ During Centralized Spotlight Events, the characters would take on a more command
 - Spotlight events will require more centralized and perhaps rhythm-driven dance tracks for the audience to focus on a particular character or moment.
 
 ## Additional Aspects That I Looked Into
-Up until now the sound system and softwares I have designed have been entirely free of cost. These additional items would dip into budget, naturally...
-
+Up until now the sound system and softwares I have designed have been entirely free of cost. These additional items would dip into budget, naturally...<br><br>
 **[Flat Panel Speakers](https://www.youtube.com/watch?v=zdkyGDqU7xA&t=1294s)**
 This is a more experimental approach, not overly expensive (under $500) but requiring a budget for materials and assembly. It involves integrating audio into the scenery itself, creating high-fidelity speakers from flat pieces of plywood or similar material with contact exciters. This might be saved for another project but is cool to me.
 
