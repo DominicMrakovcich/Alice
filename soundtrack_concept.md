@@ -106,6 +106,7 @@ During Centralized Spotlight Events, the characters would take on a more command
 AliceAmbientRadio Software ==> Macbook Pro ==> Audio Interface/or mixer with 8-16 channels output ==> audio cabling ==> Speakers (Vera speakers or our own temporary hang)
 
 Total Equipment Cost: $0.00
+<br>
 Labor Costs (student workers): $144.00 (= ~ $12 x 12 hours of install/focus)
 
 ## Additional Aspects That I Looked Into
