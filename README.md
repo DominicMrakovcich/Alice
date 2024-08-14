@@ -1,5 +1,5 @@
 # Alice in Wonderland: An Immersive Experience
 
-Sound Design Repository by Dominic Mrakovcich
+Welcome to Dominic Mrakovcich's Public Sound Design Repository for [Alice in Wonderland: An Immersive Experience](https://nmu.edu/theatreanddance/alice-wonderland-immersive-experience)
 
-[go to traditional website view](https://dominicmrakovcich.github.io/Alice/)
+[I recommend that you go to traditional website view](https://dominicmrakovcich.github.io/Alice/)
