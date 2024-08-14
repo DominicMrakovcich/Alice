@@ -54,7 +54,7 @@ I recognize a contradiction here; while I wish to avoid sampling current-day pop
 ## Audio Solutions
 
 ### Alice Ambient Radio
-An Automated Macro-Sampler. I spent much of the summer designing and testing this software (along with other ancillary software programs that sound good alongside it) as I considered it to be the foundation of my vision for how the soundtrack should sound bizarre and surreal. This software will be pivotal in creating an immersive and organic auditory experience. I tested this via public live streams on YouTube using a large assortment of royalty-free sample packs just for testing purposes, but the samples for the true production will all be originals.
+An Automated Macro-Sampler. I spent much of the summer designing and testing this software (along with other ancillary software programs that sound good alongside it) as I considered it to be the foundation of my vision for how the soundtrack should sound bizarre and surreal. This software will be pivotal in creating an immersive and organic auditory experience. I tested this program via public live streams on YouTube using a large assortment of royalty-free sample packs, but the samples for the true production will all be originals.
 
 ![Alt text](assets/aar_01.jpg)
 
