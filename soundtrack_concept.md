@@ -28,7 +28,6 @@
     </header>
 </body>
 </html>
-<markdown>
 
 ## Forenote
 As a composer and sound designer, I am neither a dancer nor the director, so I recognize that my perspectives and suggestions should be approached with a degree of flexibility and critique. This memo is intended to lay out my thought process and the rationale behind my ideas in detail. My aim is to offer a comprehensive view of how I envision the sound design and its integration into the overall experience. I hope this will help convey my vision clearly and foster constructive discussion on how best to bring it to life within the broader context of the production.
