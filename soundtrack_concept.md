@@ -58,7 +58,7 @@ An Automated Macro-Sampler. I spent much of the summer designing and testing thi
 
 ![Alt text](assets/aar_01.jpg)
 
-*Examples:*
+*Localized Idle Ambience ~ Examples:*
 - [Alice Ambient Radio ~ Trailer](https://www.youtube.com/watch?v=FfPT1U9efBU)
 - [Alice Ambient Radio #15 ~ Rains & Grains of Paradise](https://www.youtube.com/watch?v=cFH1KgnEBqU&list=PL7xt4Y5m8lKP0DyTKgjPe9sOOiBZ3iWlq&index=8)
 - [Alice Ambient Radio #13 ~ Mountain & Cedar](https://www.youtube.com/watch?v=HEIm3C5WEP8&list=PL7xt4Y5m8lKP0DyTKgjPe9sOOiBZ3iWlq&index=6)
@@ -66,6 +66,7 @@ An Automated Macro-Sampler. I spent much of the summer designing and testing thi
 
 ### What Would Dance Tracks Sound Like?
 I think the dance tracks that is the spotlight events will have more distinctively pulsed music, either canned or performed live. I love house music and making electronica, so if we want to incorporate elements of that, I’m all for it. I considered integrating historical dance forms such as the Quadrille with a modern nightclub vibe to enhance relatability and engagement for the audience. This music would be utilized in both the ambient instances, perhaps in a more fragmented form, and I then in the spotlight events, much like arias or solos. I am fairly experienced with performing live electronic music so that is always an option if you would like me to set up my table in a corner somewhere. This could add a little more human element to it instead of automating everything.
+*Centralized Spotlight Events ~ Examples:*
 - [The Juggler's Apprentice](https://www.youtube.com/watch?v=2vUBu_PDYJk&list=PL7xt4Y5m8lKMKmzB1F-V270mg-_7fcxQX&index=8)
 - [Stead](https://www.youtube.com/watch?v=2aUL6k454-Q&list=PL7xt4Y5m8lKMKmzB1F-V270mg-_7fcxQX&index=2)
 - [Sequestered but flickering](https://www.youtube.com/watch?v=zqFldMd1qnU)
@@ -100,8 +101,15 @@ During Centralized Spotlight Events, the characters would take on a more command
 - Independent ambiences will be localized to various zones and corners of the venue.
 - Spotlight events will require more centralized and perhaps rhythm-driven dance tracks for the audience to focus on a particular character or moment.
 
+#### Equipment Required
+
+AliceAmbientRadio Software ==> Macbook Pro ==> Audio Interface/or mixer with 8-16 channels output ==> audio cabling ==> Speakers (Vera speakers or our own temporary hang)
+
+Total Equipment Cost: $0.00
+Labor Costs (student workers): $144.00 (= ~ $12 x 12 hours of install/focus)
+
 ## Additional Aspects That I Looked Into
-Up until now the sound system and softwares I have designed have been entirely free of cost. These additional items would dip into budget, naturally...<br><br>
+Up until now the sound system and softwares I have designed have been entirely free of cost. These additional items are entirely optional and would dip into budget, naturally...<br><br>
 **[Flat Panel Speakers](https://www.youtube.com/watch?v=zdkyGDqU7xA&t=1294s)**
 This is a more experimental approach, not overly expensive (under $500) but requiring a budget for materials and assembly. It involves integrating audio into the scenery itself, creating high-fidelity speakers from flat pieces of plywood or similar material with contact exciters. This might be saved for another project but is cool to me.
 
