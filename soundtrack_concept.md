@@ -135,7 +135,7 @@ So... who is our audience, and what is familiar to them?
 
 I recognize a contradiction here; while I wish to avoid sampling current-day popular media to maintain immersion, I need to address what elements will connect with the audience. This led me to focus more on sampling the natural world, electronic sounds, and voice-acted dialogue. After all, the most bizarre thing to listen to is the human voice transmogrified.
 
-#### Summary:
+#### Summary
 - Bizarre, surreal, and immersive
 - Overall audio concept of distorting the familiar; however, I still aim for the soundtrack (sound design & music) to remain entirely original and innovative.
 - Natural & electric soundscapes created by sampling and transforming (distorting)
@@ -205,7 +205,7 @@ Since it is just a simple box and can be brought anywhere, I would like it to be
 **Video Recording**
 This is such an interesting and unique project that I think we should absolutely video record it. With the new equipment available, this should be possible. The small cameras mounted on adjustable clamp arms will allow for flexible and dynamic recording of various angles and moments.
 
-#### Summary:
+#### Summary
 - I explored various technologies to enhance the immersive experience.
 - Video recording and photographing the production will be crucial for creating promotional materials and generating interest.
 
@@ -216,7 +216,7 @@ Thank you so much for your time and consideration,
 
 Dominic Mrakovcich, August 2024
 
-#### Summary:
+#### Summary
 - I created automated software that generates the ambience called Alice Ambient Radio.
 - Independent ambiences will be localized to various zones and corners of the venue.
 - Spotlight events will require more centralized and perhaps rhythm-driven dance tracks for the audience to focus on a particular character or moment.
@@ -238,7 +238,7 @@ Since it is just a simple box and can be brought anywhere, I would like it to be
 **Video Recording**
 This is such an interesting and unique project that I think we should absolutely video record it. With the new equipment available, this should be possible. The small cameras mounted on adjustable clamp arms will allow for flexible and dynamic recording of various angles and moments.
 
-#### Summary:
+#### Summary
 - I explored various technologies to enhance the immersive experience.
 - Video recording and photographing the production will be crucial for creating promotional materials and generating interest.
 
