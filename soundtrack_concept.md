@@ -137,38 +137,3 @@ Okay! So that is most of what I have in mind. I am very open to suggestions and 
 Thank you so much for your time and consideration,
 
 Dominic Mrakovcich, August 2024
-
-#### Summary
-- I created automated software that generates the ambience called Alice Ambient Radio.
-- Independent ambiences will be localized to various zones and corners of the venue.
-- Spotlight events will require more centralized and perhaps rhythm-driven dance tracks for the audience to focus on a particular character or moment.
-
-## Additional Aspects That I Looked Into
-Up until now the sound system and softwares I have designed have been entirely free of cost. These additional items would dip into budget, naturally...
-**[Flat Panel Speakers](https://www.youtube.com/watch?v=zdkyGDqU7xA&t=1294s)**
-This is a more experimental approach, not overly expensive (under $500) but requiring a budget for materials and assembly. It involves integrating audio into the scenery itself, creating high-fidelity speakers from flat pieces of plywood or similar material with contact exciters. This might be saved for another project but is cool to me.
-
-**Sensors for Audience Interaction**
-Another aspect of immersion is engaging all the senses. I considered various sensor options,
-including motion, humidity, light, infrared, and alcohol percentage sensors, to create a more responsive and interactive environment. These sensors could send data to my software, affecting the audio based on audience presence. While this is an additional feature, I spent a few weeks researching and testing it with Arduino and C++ code. I made my potted plants control my synthesizers based on their moisture level. This organic interaction aligns with my aim for natural-sounding music. This technique works exceptionally well with taking in electrical signals from mushrooms (see [MycoLyco](https://www.youtube.com/watch?v=J-nIBA0V_No)), which is sort of *Alice* but also getting a bit off course. This idea could be reserved for a future project, but sensors are a popular choice for interactive music and installations.
-
-**Theatre For All & Silent Discotheques**
-In line with the Theatre for All program, I've been looking into new wireless assisted systems not just for the theatre but for NMU as a whole, working with Michael Bath. I conferred for a while with Hearing Loops Inc., which is at the forefront of this technology, but their price was far too steep-- 30K just for the FRT. I am now demoing two much more affordable, under $2,000 non-permanent install options (just a box transceiver) from Sennheiser and Listen Tech.
-
-Since it is just a simple box and can be brought anywhere, I would like it to be available for this production. This technology could also be utilized for anyone with Bluetooth-enabled headphones, making silent discos and narrated exhibits a viable option.
-
-**Video Recording**
-This is such an interesting and unique project that I think we should absolutely video record it. With the new equipment available, this should be possible. The small cameras mounted on adjustable clamp arms will allow for flexible and dynamic recording of various angles and moments.
-
-#### Summary
-- I explored various technologies to enhance the immersive experience.
-- Video recording and photographing the production will be crucial for creating promotional materials and generating interest.
-
-## Closing
-Okay! So that is most of what I have in mind. I am very open to suggestions and criticism. I want to keep my general approach to sampling and immersive surround sound, but the sound world itself can vary greatly depending on the content being played back.
-
-Thank you so much for your time and consideration,
-
-Dominic Mrakovcich, August 2024
-
-</markdown>
