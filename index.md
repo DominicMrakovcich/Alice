@@ -1,4 +1,2 @@
-[return to repository](https://github.com/DominicMrakovcich/Alice)
+[return to repository](https://github.com/DominicMrakovcich)
 # index
-
-[1. Concept](soundtrack_concept.md)
